@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=507cardoze" alt="507cardoze" /></a> </p>
  -->
-- 🔭 I’m currently working on **Spear luxembourg**
+- 🔭 I’m currently working on Spear luxembourg
 
 - 💬 Ask me about **Flutter**
 
