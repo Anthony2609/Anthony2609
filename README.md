@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anthony Dacremont</h1>
 <h3 align="center">Software developer from Epitech France</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Anthony2609&label=Profile%20views&color=0e75b6&style=flat" alt="Anthony2609" /> </p>
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=507cardoze" alt="507cardoze" /></a> </p> -->
-
 - 🔭 I’m currently working on Spear luxembourg
 
 - 💬 Ask me about **Flutter**
