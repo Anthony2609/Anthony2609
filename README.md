@@ -15,9 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/anthony-salvattore-cardoze-agrio-332020a1](https://www.linkedin.com/in/anthony-dacremont-rodriguez-19a02a22b/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anthony-salvattore-cardoze-agrio-332020a1" height="30" width="40" /></a>
-<a href="https://instagram.com/tonycardoze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tonycardoze" height="30" width="40" /></a>
-<a href="https://discord.gg/Flarebite#6449" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Flarebite#6449" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anthony-dacremont-rodriguez-19a02a22b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anthony-salvattore-cardoze-agrio-332020a1" height="30" width="40" /></a>
 </p>
 
 <!-- 
