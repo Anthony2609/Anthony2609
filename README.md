@@ -3,7 +3,7 @@
 
 <h3 align="left">About me:</h3>
 
-- 🔭 I’m currently working on **<a href="https://github.com/spear-lu">Spear Luxembourg</a>**
+- 🔭 I’m currently working at **<a href="https://github.com/spear-lu">Spear Luxembourg</a>**
 
 - ✨ Favorite language **Flutter**
 
