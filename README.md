@@ -3,9 +3,9 @@
 
 <h3 align="left">About me:</h3>
 
-- 🔭 I’m currently working on Spear luxembourg
+- 🔭 I’m currently working on **Spear luxembourg**
 
-- 💬 Ask me about **Flutter**
+- ✨ Favorite language **Flutter**
 
 - 📫 How to reach me **anthony.dacremont@outlook.fr**
 
