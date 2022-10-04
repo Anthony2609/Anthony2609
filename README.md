@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **anthony.dacremont@outlook.fr**
 
-- ⚡ Fun fact **I like to learn new tech.**
+- 🧑‍💻 Fun fact **I like to learn new tech.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
