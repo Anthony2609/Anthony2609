@@ -3,7 +3,7 @@
 
 <h3 align="left">About me:</h3>
 
-- 🔭 I’m currently working at **<a href="https://www.epitech.eu">Epitech</a>**
+- 🔭 I’m currently student at **<a href="https://www.epitech.eu">Epitech</a>**
 
 - ✨ Favorite language **Next Js**
 
