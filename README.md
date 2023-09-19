@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anthony Dacremont</h1>
-<h3 align="center">Junior fullstach developer from Epitech France</h3>
+<h3 align="center">Junior fullstack developer from Epitech France</h3>
 
 <h3 align="left">About me:</h3>
 
