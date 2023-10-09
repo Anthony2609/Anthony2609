@@ -20,7 +20,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
-
   
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="firebase" width="40" height="40"/>
   <a href="https://fr.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="firebase" width="40" height="40"/>
